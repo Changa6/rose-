@@ -49,6 +49,10 @@
   --dark-color: #000;
 }
 
+header {
+    text-align: center;
+}
+
 body {
     display: flex;
     align-items: center;  /* Change from flex-end to center */
@@ -1047,6 +1051,10 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .not-loaded * {
   animation-play-state: paused !important;
 }
+
+footer {
+    text-align: center;
+    }
 
 .page-footer {
     position: fixed;;
