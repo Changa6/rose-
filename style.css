@@ -71,7 +71,7 @@ body {
 }
 
 .flowers {
-    position: relative;
+    position: centre relative;
     animation: grow-ans 4s backwards;
     transform: scale(0.7);
     margin: 0 auto;  /* Add this */
