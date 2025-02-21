@@ -71,16 +71,15 @@ body {
 }
 
 .flowers {
-    position: centre relative;
+    position: relative;
     animation: grow-ans 4s backwards;
     transform: scale(0.7);
-    margin: 0 auto;  /* Add this */
-    width: fit-content;  /* Add this */
-    display: flex;  /* Add this */
-    justify-content:left center ;  /* Add this */
-    align-items: center ;  /* Add this */
-
-  }
+    margin: 0 auto;  /* Center horizontally */
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;  /* Center vertically */
+}
 
 .flower {
   position: absolute;
