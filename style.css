@@ -1110,7 +1110,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 
 .message-texts {
   position: fixed;
-  top: 72%;
+  top: 80%;
   left: 70%;
   transform: translate(-50%, -50%);
   color: rgba(255, 255, 255, 0.8);
