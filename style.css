@@ -1034,7 +1034,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 
 .page-footer {
     position: fixed;;
-    bottom: 70px;
+    bottom: 75px;
     left: 0;
     right: 0;
     background: rgba(0, 0, 0, 0.7);
